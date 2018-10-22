@@ -9,8 +9,6 @@ private:
 	double parse_double();
 	double parse_power();
 	double parse_product();
-	double parse_dif();
-	double parse_division();
 	double parse_sum();
 	char* to_parse;
 	char*original;
